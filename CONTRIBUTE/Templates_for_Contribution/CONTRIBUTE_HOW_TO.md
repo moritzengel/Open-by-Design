@@ -15,7 +15,7 @@ The contribution process is designed to be as open and accessible as possible. C
 If you are comfortable with GitHub, you can add a new digital research card directly to the repository using our Markdown template.
 
 1. **Fork** this repository.
-2. Navigate to the `research-cards` folder.
+2. Navigate to the `Research_Cards_with_contributions` folder.
 3. Create a new `.md` file named after your product (e.g., `fairphone.md`).
 4. Copy the layout from  `card-template.md` and fill in the details.
 5. Add any images to the `images` folder and link them in your file.
