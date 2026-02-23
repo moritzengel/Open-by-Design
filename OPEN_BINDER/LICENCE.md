@@ -1,0 +1,69 @@
+# CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+**Copyright 2026 Moritz Engel**
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
+
+You may redistribute and modify this source and make products using it under the terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+
+**Source location:** [https://github.com/moritzengel/Open-by-Design/tree/main]
+
+As per CERN-OHL-S v2 section 4.1, should You produce hardware based on this source, You must where practicable maintain the Notices applied by the Licensor. Please ensure the following Notices are visible on the physical product or its documentation: 
+**"Open by Design - Moritz Engel"**
+
+---
+
+## Full License Text
+
+**CERN Open Hardware Licence Version 2 - Strongly Reciprocal**
+
+### Preamble
+CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs. Version 2 of the CERN Open Hardware Licence comes in three variants: CERN-OHL-P (permissive); and two reciprocal variants: CERN-OHL-W (weakly reciprocal) and this licence, CERN-OHL-S (strongly reciprocal).
+
+The CERN-OHL-S is ideally suited for developers who want to ensure that any improvements to their designs are fed back to the community, and that anyone making products based on their designs gives back the same freedoms to the community.
+
+### 1. Definitions
+1.1 "Licence" means this CERN-OHL-S v2.
+1.2 "Source" means information such as design materials or operating instructions which can be applied to Make or test a Product or to prepare a Product for use, Conveyed under the conditions of this Licence.
+1.3 "Covered Source" means Source that is explicitly made available under this Licence or that is Conveyed to You with a Product made using such Source.
+1.4 "Product" means any device, substance, material, bug, or kit of parts Makeable from the Covered Source.
+1.5 "Make" means to create or configure something, whether by manufacture, assembly, compiling, mass production, or otherwise.
+1.6 "Notice" means copyright, trademark or patent notices, and any licensing conditions or warranty disclaimers applied to the Covered Source or to a Product.
+1.7 "Convey" means to provide to a third party.
+1.8 "Complete Source" means all Covered Source required to Make a Product.
+
+### 2. Applicability
+2.1 This Licence governs the use, copying, modification, Conveying of Covered Source and Products, and the Making of Products. By exercising any right granted under this Licence, You irrevocably accept these terms and conditions.
+2.2 This Licence is granted by the Licensor directly to You, and shall apply worldwide and without limitation in time.
+2.3 You shall not attempt to restrict by contract or otherwise the rights granted under this Licence to other Licensees.
+2.4 This Licence is not intended to restrict fair use, fair dealing, or any other similar right.
+
+### 3. Copying, Modifying and Conveying Covered Source
+3.1 You may copy and Convey verbatim copies of Covered Source, in any medium, provided You retain all Notices.
+3.2 You may modify Covered Source, other than Notices.
+3.3 You may Convey modified Covered Source, provided that You:
+a) package the modified Covered Source such that it is clearly identified as a modified version; and
+b) Convey the modified Covered Source under the terms of this Licence; and
+c) ensure that any new modifications You make are available under this Licence.
+
+### 4. Making and Conveying Products
+4.1 You may Make Products, and Convey them, provided that You ensure that the required Notices are available to the recipient.
+4.2 If You Convey a Product, You must:
+a) Convey the Complete Source to the recipient, under this Licence; or
+b) accompany the Product with a written offer, valid for at least three years, to Convey the Complete Source to any third party under this Licence.
+
+### 5. Research and Development
+You may Convey Products for the sole purpose of research and development, without an obligation to Convey the Complete Source, provided You do not do so for financial gain and You restrict the recipient from Conveying the Products further.
+
+### 6. Patents
+6.1 Each Licensor grants You a non-exclusive, worldwide, royalty-free patent licence under any patent claims owned or controlled by the Licensor, to Make, use, sell, offer for sale, import and otherwise Convey the Covered Source and Products.
+
+### 7. Disclaimer of Warranty and Limitation of Liability
+7.1 EXCEPT AS MAY BE OTHERWISE AGREED IN WRITING, THE COVERED SOURCE AND PRODUCTS ARE PROVIDED "AS IS" AND WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+7.2 IN NO EVENT SHALL ANY LICENSOR BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE COVERED SOURCE OR PRODUCTS.
+
+### 8. General
+8.1 If any provision of this Licence is held to be unenforceable, it shall not affect the enforceability of the remainder of this Licence.
+8.2 This Licence shall be governed by the laws of the jurisdiction in which the Licensor resides or conducts their primary business, without regard to conflict of law provisions.
