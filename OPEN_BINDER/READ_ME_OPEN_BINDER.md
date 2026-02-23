@@ -2,7 +2,7 @@
 
 Welcome to the open-source hardware repository for the **Modular Shelf Binding**. 
 
-This project is a physical manifestation of the *Open by Design* thesis. It is a hybrid folder and shelf combination designed to hold a scrapbook (via a top ring binding) while providing individual, stacked shelves for an abstract, a printed essay, and empty research cards. 
+This project is a physical manifestation of the *Open by Design* thesis. It is a hybrid folder and shelf combination designed to hold the scrapbook (ring binding) while providing individual, stacked shelves for the abstract, the printed essay, and the empty research cards. 
 
 By making this design open-source, the goal is to provide a functional, repairable, and adaptable binding system that anyone can manufacture at home or in a local FabLab.
 
@@ -32,12 +32,12 @@ To build this binding, you will need a mix of standard off-the-shelf hardware an
 * **1x** Shelfboard no. 2
 * **1x** Bottom Shelfboard no. 3.1
 * **1x** Bottom Shelfboard no. 3.2
-
 ---
 
 ## Assembly Instructions
 
-![Exploded View of the Modular Binding](/path-to-your-image/bom-exploded-view.jpg)
+![Exploded View of the Modular Binding](https://github.com/user-attachments/files/25501161/BOM_FOLDER_OPEN_BINDER.pdf)
+
 
 ### Step 1: Prepare the Parts
 Ensure all 3D printed parts are clean and free of support material. If you CNC-milled the aluminum front panel, lightly sand the edges to remove any sharp burrs.
